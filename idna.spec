@@ -4,7 +4,7 @@
 #
 Name     : idna
 Version  : 2.1
-Release  : 11
+Release  : 12
 URL      : https://pypi.python.org/packages/source/i/idna/idna-2.1.tar.gz
 Source0  : https://pypi.python.org/packages/source/i/idna/idna-2.1.tar.gz
 Summary  : Internationalized Domain Names in Applications (IDNA)
