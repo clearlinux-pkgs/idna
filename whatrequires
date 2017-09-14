@@ -1,2 +1,10 @@
 # This file contains recursive sources that require this package
-mutt-0:1.9.0-28.src
+cryptography
+ecdsa
+keyring
+mutt
+ndg_httpsclient
+paramiko
+pyOpenSSL
+secretstorage
+urllib3
