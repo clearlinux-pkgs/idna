@@ -1,10 +1,15 @@
 # This file contains recursive sources that require this package
+ceph
 cryptography
 ecdsa
+gensim
+jupyter-notebook-gist
 keyring
 mutt
 ndg_httpsclient
 paramiko
 pyOpenSSL
+requests
 secretstorage
+smart_open
 urllib3
