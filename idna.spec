@@ -4,7 +4,7 @@
 #
 Name     : idna
 Version  : 2.6
-Release  : 24
+Release  : 25
 URL      : http://pypi.debian.net/idna/idna-2.6.tar.gz
 Source0  : http://pypi.debian.net/idna/idna-2.6.tar.gz
 Summary  : Internationalized Domain Names in Applications (IDNA)
