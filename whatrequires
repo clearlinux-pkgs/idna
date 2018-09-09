@@ -1,12 +1,5 @@
 # This file contains recursive sources that require this package
-acme
-certbot
 cryptography
-ecdsa
-josepy
+idna-ssl
 mutt
-ndg_httpsclient
-paramiko
-pyOpenSSL
-secretstorage
-urllib3
+yarl
