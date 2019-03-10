@@ -4,7 +4,7 @@
 #
 Name     : idna
 Version  : 2.8
-Release  : 45
+Release  : 46
 URL      : https://files.pythonhosted.org/packages/ad/13/eb56951b6f7950cadb579ca166e448ba77f9d24efc03edd7e55fa57d04b7/idna-2.8.tar.gz
 Source0  : https://files.pythonhosted.org/packages/ad/13/eb56951b6f7950cadb579ca166e448ba77f9d24efc03edd7e55fa57d04b7/idna-2.8.tar.gz
 Summary  : Internationalized Domain Names in Applications (IDNA)
