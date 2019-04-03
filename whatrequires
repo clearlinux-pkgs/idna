@@ -1,5 +1,7 @@
 # This file contains recursive sources that require this package
 cryptography
+deprecated-cryptography
 idna-ssl
 mutt
+pyside2-setup
 yarl
