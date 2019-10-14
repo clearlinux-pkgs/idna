@@ -1,7 +1,14 @@
 # This file contains recursive sources that require this package
+conda
 cryptography
-deprecated-cryptography
+docker-compose
 idna-ssl
+jsonschema
+mercurial
 mutt
 pyside2-setup
+requests
+rfc3986
+tldextract
+urllib3
 yarl
