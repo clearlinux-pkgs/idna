@@ -2,6 +2,7 @@
 conda
 cryptography
 docker-compose
+docker-py
 idna-ssl
 jsonschema
 mercurial
