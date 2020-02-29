@@ -1,8 +1,10 @@
 # This file contains recursive sources that require this package
 conda
 cryptography
+dnspython
 docker-compose
 docker-py
+gevent
 idna-ssl
 jsonschema
 mercurial
@@ -11,5 +13,6 @@ pyside2-setup
 requests
 rfc3986
 tldextract
+trustme
 urllib3
 yarl
