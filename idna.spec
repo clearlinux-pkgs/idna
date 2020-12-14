@@ -4,7 +4,7 @@
 #
 Name     : idna
 Version  : 2.10
-Release  : 61
+Release  : 62
 URL      : https://files.pythonhosted.org/packages/ea/b7/e0e3c1c467636186c39925827be42f16fee389dc404ac29e930e9136be70/idna-2.10.tar.gz
 Source0  : https://files.pythonhosted.org/packages/ea/b7/e0e3c1c467636186c39925827be42f16fee389dc404ac29e930e9136be70/idna-2.10.tar.gz
 Summary  : Internationalized Domain Names in Applications (IDNA)
