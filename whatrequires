@@ -8,12 +8,13 @@ docker-py
 gevent
 idna-ssl
 jsonschema
+lutris
 mercurial
 mutt
+pycares
 pyside2-setup
 requests
 rfc3986
 tldextract
-trustme
 urllib3
 yarl
