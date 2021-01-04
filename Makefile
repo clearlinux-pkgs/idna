@@ -1,5 +1,5 @@
 PKG_NAME := idna
-URL = https://files.pythonhosted.org/packages/2f/2e/bfe821bd26194fb474e0932df8ed82e24bd312ba628a8644d93c5a28b5d4/idna-3.0.tar.gz
+URL = https://files.pythonhosted.org/packages/9f/24/1444ee2c9aee531783c031072a273182109c6800320868ab87675d147a05/idna-3.1.tar.gz
 ARCHIVES = 
 
 include ../common/Makefile.common
