@@ -4,7 +4,7 @@
 #
 Name     : idna
 Version  : 3.1
-Release  : 65
+Release  : 66
 URL      : https://files.pythonhosted.org/packages/9f/24/1444ee2c9aee531783c031072a273182109c6800320868ab87675d147a05/idna-3.1.tar.gz
 Source0  : https://files.pythonhosted.org/packages/9f/24/1444ee2c9aee531783c031072a273182109c6800320868ab87675d147a05/idna-3.1.tar.gz
 Summary  : Internationalized Domain Names in Applications (IDNA)
