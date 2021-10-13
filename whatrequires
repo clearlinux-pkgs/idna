@@ -1,5 +1,7 @@
 # This file contains recursive sources that require this package
 Cura
+ansible
+anyio
 conda
 cryptography
 dnspython
@@ -17,4 +19,5 @@ requests
 rfc3986
 tldextract
 urllib3
+vpp
 yarl
